@@ -5,7 +5,11 @@ end
 
 def monopoly_with_second_tier
     monopoly = 
-	{:railroads => {}}
+	{:railroads => {
+	  
+	  }
+	  
+	}
   # Run the tests. They will fail, but
   # they'll guide you in how to modify what you just did to have more
   # complexity.
